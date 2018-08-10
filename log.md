@@ -4,7 +4,7 @@ I haven't written much code lately, so I'm joining my friend [Tommy](https://git
 
 ## In Brief
 
-D1 | Started learning Swift / building a pedometer app in Xcode
+| D1 | Started learning Swift / building a pedometer app in Xcode |
 
 ## Log
 
